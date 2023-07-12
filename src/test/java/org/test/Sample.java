@@ -10,7 +10,7 @@ public class Sample extends BaseClass {
 		urlLaunch("https://www.flipkart.com/");
 		implicitlyWait(20);
 			
-		
+		System.out.println("Test 1");
 		
 		
 		
