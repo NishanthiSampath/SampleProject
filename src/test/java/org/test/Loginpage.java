@@ -14,5 +14,10 @@ public class Loginpage extends BaseClass {
 	@FindBy(xpath="text")
 	private WebElement Search;
 	
+	@FindBy(xpath="_2KpZ6l _2doB4z")
+	protected WebElement btncross;
+
+	
+	
 
 }
